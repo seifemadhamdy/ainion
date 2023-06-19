@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_ruby">#FFA70017</color>
+    <color name="red_munsell">#FFE1233D</color>
+    <color name="blue_usafa">#FF005081</color>
+    <color name="blue_star_command">#FF087CB1</color>
+    <color name="default_blur_background">#802E2E2E</color>
+    <color name="card_background">#171717</color>
+</resources>

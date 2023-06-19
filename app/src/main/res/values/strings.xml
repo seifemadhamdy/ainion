@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ainion</string>
+    <string name="upload_to_ainion">Upload to Ainion</string>
+    <string name="ainion_description">A pre-trained neural network image prediction model.</string>
+    <string name="i_can_predict">I can predict...</string>
+    <string name="traffic_label">43 different types of traffic signs based on category match.</string>
+    <string name="other_label">Any other categorical data sets as soon as they are deployed into my model.</string>
+    <string name="upload_image">Upload image</string>
+    <string name="i_am_ainion">I am Ainion</string>
+    <string name="result_from_ainion">Result from Ainion</string>
+    <string name="unknown">Unknown</string>
+    <string name="your_image_is_predicted_as">Your image is predicted as...</string>
+    <string name="go_back">Go back</string>
+</resources>

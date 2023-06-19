@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_ruby">#FFAB0018</color>
+    <color name="red_munsell">#FFE5243E</color>
+    <color name="blue_usafa">#FF005285</color>
+    <color name="blue_star_command">#FF087EB5</color>
+    <color name="splash_screen_foreground">@color/black</color>
+    <color name="splash_screen_background">@color/white</color>
+    <color name="default_blur_background">#80D1D1D1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card_background">#e8e8e8</color>
+</resources>

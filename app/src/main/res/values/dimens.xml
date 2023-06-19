@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">72dp</dimen>
+    <dimen name="spacer">24dp</dimen>
+    <dimen name="spacer_half">12dp</dimen>
+    <dimen name="spacer_quarter">6dp</dimen>
+</resources>
